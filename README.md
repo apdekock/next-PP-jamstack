@@ -1,8 +1,8 @@
 # A Next.js starter for the [JAMstack](https://jamstack.org)
 This is a boilerplate for using [Next.js](https://nextjs.org/) as a static site generator.
-[![Netlify Status](https://api.netlify.com/api/v1/badges/02ea45db-769b-4921-b368-d67c5fcbf137/deploy-status)](https://app.netlify.com/sites/inspiring-jackson-508a97/deploys)
 [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/netlify-templates/next-starter-jamstack)
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/02ea45db-769b-4921-b368-d67c5fcbf137/deploy-status)](https://app.netlify.com/sites/inspiring-jackson-508a97/deploys)
 ## Usage
 
 ### Getting started
